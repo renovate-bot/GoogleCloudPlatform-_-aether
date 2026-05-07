@@ -1,3 +1,6 @@
+**🛑 Project Status: Archived**
+This demo repository is archived and will no longer receive updates.
+
 # Aether
 
 **A modern systems programming language with LLM-first design principles**
